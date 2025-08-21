@@ -9,6 +9,7 @@ wheels/
 # Virtual environments
 .venv
 .env
+temp_auto_push.bat
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -17,8 +18,8 @@ wheels/
 *.log
 
 # IDEs and editors
-.vscode/
 .idea/
 
 # System files
-.DS_Store
+.DS_Store.gitignore
+temp_interactive_push.bat
