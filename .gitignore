@@ -17,7 +17,6 @@ wheels/
 *.log
 
 # IDEs and editors
-.vscode/
 .idea/
 
 # System files
